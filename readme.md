@@ -2,3 +2,4 @@
 
 ## Model:
 w_{ij} ~ Cat($\psi$)
+
