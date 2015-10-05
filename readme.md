@@ -14,4 +14,4 @@
 
 ## Model:
 w_{ij} ~ Cat($\psi$)
-
+\\(\alpha\\)
